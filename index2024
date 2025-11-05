@@ -129,7 +129,838 @@
         </div>
     </div>
 
+     <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68536">
+                                    <div>e-Procurement Technologies Limited</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68536</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Rajat Panda</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Swapnil Anand</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>SR3</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>IT Development Division</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/06 - 2027/01/06</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+     <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68565">
+                                    <div>Axiom Consultants, Inc.</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68565</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Vijaya Geetha Kothamasu</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Bhavana Rakesh</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>Global Certification Services</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>IT Scientific Engineering Services</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/02/22 - 2027/02/22</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Services</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+     <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68599">
+                                    <div>Expression Networks</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68599</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Bryan McElwee</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Thomas Meccia</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>iPower</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>Development Projects</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/02/16 - 2027/02/16</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+     <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68606">
+                                    <div>Kreative Corporation</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68606</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Karen McKeown</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Soda Sultana</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>ProcessWorks Inc.</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>Agile Software Development</small></div>
+                        <div class="appraisal-card__target"><small>IT Professional Services</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/11 - 2027/01/11</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Services</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+     <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68740">
+                                    <div>Daffodil Software Private Limited</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68740</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Dipak Dahale</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Aswathy Krishnankutty</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>Equalitas Certifications</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>Software Development Division</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/11 - 2027/01/11</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+    <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68755">
+                                    <div>Xcelligen, Inc.</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68755</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Ronald Weidemann</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Lakshmi Veera</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>The H and W Group</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>Development and Service Solutions</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/10 - 2027/01/10</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development,Services</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+<div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68810">
+                                    <div>Contracting Resources Group, Inc.</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68810</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>David P. Quinn</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Dina DiPalo</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>Sensible Process</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>Government Programs</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/26 - 2027/01/26</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Services</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+     <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68773">
+                                    <div>JCS Solutions LLC</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68773</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Ravindra Khetan</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Rajkumari Bezwada</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>SPA Enterprise Services</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>Software Development & Service Division</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/12 - 2027/01/12</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Services</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+     <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68843">
+                                    <div>NexGen Technologies, Inc.</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68843</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Jose Sancho Thomas</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Steve Lute</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>Process Quality Engineering</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>IT Support Services -- primarily in Software Operations & Maintenance and Development support</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/11 - 2027/01/11</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+    <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68846">
+                                    <div>CEY Savunma ve Simülasyon Sistemleri A.Ş.</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68846</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>John Murat Ozer</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>mustafa fatih unal</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>LAYERMARK</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>Modeling and Simulation Group and Supporting Functions</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/31 - 2027/01/31</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+     <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68860">
+                                    <div>Akiko Sherman Infotech Pvt. Ltd.</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68860</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Ravindra Nath</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Vagish Sharma Issar</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>Prolab Technologies</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>Software Development Unit</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/05 - 2027/01/05</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+    <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68897">
+                                    <div>Companion Data Services</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68897</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Neil Potter</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Andy Miles</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>The Process Group</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>Operations (Dallas, TX), Contracts (Columbia, SC) + Quality Management (Dallas, TX and Columbia, SC)</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/19 - 2026/01/19</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Services</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 3</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
+    <div class="card appraisal-card">
+        <div class="item-card">
+            <div class="appraisal-card__header">
+                <div class="item-card__title appraisal-card__org-names">
+                    <h3>
+                            <a href="/appraisals/68866">
+                                    <div>General Data Technology CO., LTD</div>
+                            </a>
+
+                    </h3>
+                </div>
+
+                <div class="appraisal-card__id item-card__title"><h3>ID: 68866</h3></div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="item-card__section"><h3>Appraisal Team Leader</h3><small>Mangesh Katalkar</small></div>
+                </div>
+                <div class="col3">
+                    <div class="item-card__section"><h3>Sponsors</h3><small></small></div>
+                        <div><small>Wei Zhao</small></div>
+                </div>
+                <div class="col4">
+                    <div class="item-card__section"><h3>Partner</h3><small>MK Innovation Consulting</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>OU Name</h3><small></small></div>
+                        <div class="appraisal-card__target"><small>Software Development Projects from Product Operation Department</small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Appraisal Validity</h3><small>2024/01/13 - 2027/01/13</small></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col5">
+                    <div class="appraisal-card__target-label item-card__section"><h3>Model View / Domain</h3><small></small></div>
+                </div>
+                <div class="col7">
+                    <div class="item-card__section"><h3>Level</h3><small></small></div>
+                </div>
+            </div>
+                <div class="row">
+                    <div class="col5">
+                        <div class="appraisal-card__target">
+                            <small>Development</small>
+                        </div>
+                    </div>
+                    <div class="col7">
+                        <div class="appraisal-card__target">
+                            <small>ML 5</small>
+                        </div>
+                    </div>
+                </div>
+        </div>
+    </div>
+
     
+
     
 </body>
 </html>          
